@@ -4,7 +4,7 @@ with
 
 source as (
 
-    select * from data-374503.airbyte_raw_strava.activities
+    select * from {{ source('airbyte_raw_strava', 'activities') }}
 
 ),
 
