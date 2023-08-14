@@ -47,7 +47,3 @@ The resulting data from the pipeline can be visualized and explored using Looker
 ## Strava Profile
 
 Check out my [Strava profile](https://www.strava.com/athletes/22060093) to see my athletic activities and achievements.
-
----
-
-Please review the updated README, and let me know if there are any further changes you would like to make.
